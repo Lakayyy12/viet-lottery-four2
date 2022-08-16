@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@drawable/bg"
+    tools:context=".GuideFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:background="@drawable/customborder1"
+            android:src="@drawable/banner3"
+            android:scaleType="fitXY"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Quy tắc tham gia xổ số là gì?"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="30dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:shadowColor="#FF0202"
+        android:shadowRadius="5"
+        android:shadowDx="1"
+        android:shadowDy="1"/>
+
+    <TextView
+        android:id="@+id/btn1"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="@string/g1"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="20dp"
+        android:textStyle="bold"
+        android:textSize="25dp"
+        android:textColor="@color/black"
+        android:background="@drawable/gradient"
+        android:gravity="center"
+        android:shadowColor="#FF0202"
+        android:shadowRadius="5"
+        android:shadowDx="1"
+        android:shadowDy="1"/>
+
+    <TextView
+        android:id="@+id/btn2"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="@string/g2"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="20dp"
+        android:textStyle="bold"
+        android:textSize="25dp"
+        android:textColor="@color/black"
+        android:background="@drawable/gradient"
+        android:gravity="center"
+        android:shadowColor="#FF0202"
+        android:shadowRadius="5"
+        android:shadowDx="1"
+        android:shadowDy="1"/>
+
+    <TextView
+        android:id="@+id/btn3"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="@string/g3"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="20dp"
+        android:textStyle="bold"
+        android:textSize="25dp"
+        android:textColor="@color/black"
+        android:background="@drawable/gradient"
+        android:gravity="center"
+        android:shadowColor="#FF0202"
+        android:shadowRadius="5"
+        android:shadowDx="1"
+        android:shadowDy="1"/>
+
+    <TextView
+        android:id="@+id/btn4"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="@string/g4"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="20dp"
+        android:textStyle="bold"
+        android:textSize="25dp"
+        android:textColor="@color/black"
+        android:background="@drawable/gradient"
+        android:gravity="center"
+        android:shadowColor="#FF0202"
+        android:shadowRadius="5"
+        android:shadowDx="1"
+        android:shadowDy="1"/>
+
+    <TextView
+        android:id="@+id/btn5"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="@string/g5"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="20dp"
+        android:textStyle="bold"
+        android:textSize="25dp"
+        android:textColor="@color/black"
+        android:background="@drawable/gradient"
+        android:gravity="center"
+        android:shadowColor="#FF0202"
+        android:shadowRadius="5"
+        android:shadowDx="1"
+        android:shadowDy="1"/>
+
+    <TextView
+        android:id="@+id/btn6"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="@string/g6"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="20dp"
+        android:textStyle="bold"
+        android:textSize="25dp"
+        android:textColor="@color/black"
+        android:background="@drawable/gradient"
+        android:gravity="center"
+        android:shadowColor="#FF0202"
+        android:shadowRadius="5"
+        android:shadowDx="1"
+        android:shadowDy="1"/>
+
+        <TextView
+            android:id="@+id/btn7"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="CÁI LƯNG"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="30dp"
+            android:background="@drawable/tabbar"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:shadowColor="#FF0202"
+            android:shadowRadius="5"
+            android:shadowDx="1"
+            android:shadowDy="1"/>
+
+
+
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>

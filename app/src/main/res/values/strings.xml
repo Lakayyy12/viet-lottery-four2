@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Xổ số Đồng Nai</string>
+
+    <string name="gp1">Chọn xổ số để chơi</string>
+    <string name="gp01">Nếu bạn không biết bắt đầu từ đâu, việc lựa chọn trò chơi chính xác từ hàng ngàn giải xổ số trên khắp
+        thế giới có thể là điều quá sức, nhưng sau khi bạn nắm được những kiến thức cơ bản, bạn sẽ có đủ tự tin để chọn trò chơi phù hợp cho mình.</string>
+    <string name="splash_screen">splash_screen</string>
+    <string name="back_button" />
+
+    <string name="m1">Trò chơi xổ số</string>
+    <string name="m01">Trò chơi xổ số là trò chơi phổ biến nhất trong Xổ số Việt Nam, chiếm tới 40% tổng thu nhập từ xổ số. Vì nó tương đối đơn giản để chơi, nhiều người dân địa phương và thậm chí cả người nước ngoài tham gia trò chơi xổ số. Người chơi chọn số của họ và tiền thưởng được xác định bởi số lượng trùng khớp. Nếu không có ai trúng giải độc đắc, nó sẽ được chuyển sang kỳ quay thưởng tiếp theo, có khả năng tăng giải thưởng lên hàng tỷ đô la!</string>
+    <string name="m2">Xổ số các chữ số</string>
+    <string name="m02">Đây là một loại hình xổ số hiện đại hơn khá phổ biến trên toàn thế giới. Con số này đóng góp khoảng 7% tổng thu nhập từ xổ số của Việt Nam. Người chơi chọn các số từ 0 đến 9 để tạo ra kết hợp chiến thắng trong loại hình xổ số này.</string>
+    <string name="m3">Trò chơi rút thăm nhanh</string>
+    <string name="m03">Trò chơi xổ số nhanh này, còn được gọi là Keno trên khắp thế giới, là trò chơi được người Việt Nam yêu thích, chiếm khoảng 6% tổng thu nhập từ xổ số. Bởi vì nó cung cấp các hình vẽ thường xuyên hơn, nó được những người chơi xổ số nghiêm túc ưa thích.
+Mặc dù cơ cấu giải thưởng khác nhau, trò chơi rút thăm nhanh rất đơn giản để chơi. Người chơi chỉ cần chọn những con số yêu thích của họ và số tiền họ muốn đặt cược. Họ phải đặt cược trước khi trận hòa bắt đầu. Bởi vì việc rút thăm có thể diễn ra trong vài phút, không có gì lạ khi nhìn thấy những người chơi xổ số xếp hàng dài trong các quầy xổ số.</string>
+    <string name="m4">Hái may mắn</string>
+    <string name="m04">Trong sổ xố, không có giấy gian lận.
+Bất kỳ ai tuyên bố có thể hack hệ thống rất có thể là một kẻ lừa đảo đang cố gắng bán cho bạn một cuốn sách.
+Phần lớn các lời khuyên về xổ số được tìm thấy trên internet đều vô lý tương tự.
+Ngay cả khi bạn trở nên giàu có bằng cách làm theo các kết hợp thấp-cao hoặc chẵn lẻ được đề xuất trong các bài viết này, chắc chắn bạn sẽ chia sẻ giải độc đắc với hàng nghìn hoặc hàng triệu người chơi khác đã làm theo cùng một hướng dẫn cắt cookie.
+Đó là, nếu bạn vô tình nhận được số trúng thưởng, điều này cực kỳ hiếm.
+Vì vậy, cách tốt nhất để giành chiến thắng trong xổ số là gì? Theo tất cả các chuyên gia, lựa chọn ngẫu nhiên vẫn ngự trị tối cao.</string>
+    <string name="m5">Lựa chọn tiêu chuẩn</string>
+    <string name="m05">Richard Lustig không đồng ý với các nhà toán học tin rằng xổ số dựa trên sự lựa chọn ngẫu nhiên.
+Lustig, người đã giành được bảy giải thưởng lớn trong xổ số ở Hoa Kỳ, tin rằng việc chọn các con số của riêng bạn và lặp lại chúng mang lại cho bạn lợi thế so với những người chơi xổ số khác.
+Ông cũng nói rằng việc mua vé số dựa trên những "lá thăm may rủi" là một "lối thoát lười biếng" và là một chiến lược tồi để giành chiến thắng bởi vì bạn đang "chơi với những cơ hội tồi tệ nhất."</string>
+
+    <string name="g1">Tuổi tác</string>
+    <string name="g11">Ngoài giới hạn độ tuổi của đất nước, điều này thường là trong độ tuổi từ 16 đến 21.</string>
+    <string name="g2">Vé</string>
+    <string name="g22">Những người tham gia phải chọn số của riêng họ từ một lượng lớn các tùy chọn và họ nên kiểm tra kỹ vé của mình trước khi rời khỏi đại lý. Hãy nhớ rằng nếu vé bị đánh cắp, không đọc được hoặc bị hỏng, nó sẽ trở nên vô hiệu. Người giữ vé phải chịu trách nhiệm cho tờ vé, không phải vé số.</string>
+    <string name="g3">Hòa</string>
+    <string name="g33">Các con số trúng thưởng được quay đều đặn, thường là một hoặc hai lần một tuần. Để giành chiến thắng trong giải độc đắc, tất cả các số được rút ra phải trùng khớp với nhau. Ngoài phần thưởng chính, thường xuyên có các giải thưởng phụ, với ít nhất ba con số trùng khớp.</string>
+    <string name="g4">Giải độc đắc</string>
+    <string name="g44">Phần thưởng xổ số chính là cái này. Để giành chiến thắng, bạn phải khớp tất cả các số được rút ra. Ngoài giải độc đắc, thường xuyên có những phần thưởng nhỏ.</string>
+    <string name="g5">Hệ số nhân</string>
+    <string name="g55">Một số xổ số thêm một số bổ sung vào hỗn hợp để tăng các khoản chi trả cho giải thưởng không phải jackpot. Con số được rút ra làm tăng cơ hội giành được phần thưởng và thường đi kèm với một khoản phí bổ sung.
+</string>
+    <string name="g6">Cơ hội thứ hai</string>
+    <string name="g66">Đây là cơ hội bổ sung cho những người sở hữu vé số không trúng thưởng có thể giành thêm phần thưởng.</string>
+    <string name="close_button" />
+
+    <string name="m10">Nếu bạn không biết bắt đầu từ đâu, việc lựa chọn trò chơi chính xác từ hàng nghìn giải xổ số trên khắp thế giới có thể là điều quá sức, nhưng sau khi bạn nắm được những kiến thức cơ bản, bạn sẽ có đủ tự tin để chọn trò chơi phù hợp cho mình.</string>
+<string name="m11">Sử dụng các tùy chọn chọn nhanh hoặc chọn dễ cho các số được chọn ngẫu nhiên là cách đơn giản nhất để chọn số lotto của bạn. Bạn nên kiểm tra số liệu thống kê nếu bạn có con số may mắn yêu thích.
+Ngay cả khi tất cả các con số đều có cùng tỷ lệ trúng thưởng, một số được rút ra ít thường xuyên hơn những con số khác. Kiểm tra xem có bất kỳ con số nào trong số này là con số may mắn của bạn không.</string>
+<string name="m12">Mặc dù tùy chọn này vẫn có sẵn, những ngày mua vé số chỉ trong một cửa hàng đã qua lâu. Mua vé trực tuyến là lựa chọn thuận tiện nhất. Nhiều xổ số chính thức bán vé trực tuyến thông qua các trang web hoặc ứng dụng di động, nhưng bạn phải là công dân của quốc gia được đề cập.</string>
+<string name="m13">Nhiều chương trình rút thăm được phát sóng trên truyền hình; tuy nhiên, việc kiểm tra các con số trên một trang web hoặc một ứng dụng di động có thể thuận tiện hơn. Mỗi xổ số có thời gian quay thưởng riêng và bằng cách chơi trực tuyến từ một múi giờ khác nhau, bạn có thể chơi trong đêm khuya.</string>
+<string name="m14">Bạn đã kiểm tra lại số của mình và phát hiện ra rằng bạn đã thắng! Xin chúc mừng. Quá trình xác nhận giải thưởng của bạn rất đơn giản.
+Hãy lưu ý rằng mọi xổ số đều có thời hạn thanh toán, thường là từ 30 đến 180 ngày. Các giải thưởng nhỏ hơn có thể được nhận từ người bán hoặc được tự động chuyển cho bạn khi bạn chơi trực tuyến.
+Tùy chọn trả một lần hoặc tiền mặt là khoản thanh toán một lần tương đương với tổng giải thưởng tiền mặt trong giải độc đắc xổ số, thường là khoảng 60% của giải độc đắc được báo cáo.</string>
+<string name="m15">Đại lý xổ số là một nhà cung cấp dịch vụ xổ số, người thay mặt bạn làm nhiệm vụ chuyển phát nhanh.
+Họ sẽ mua vé xổ số cho bạn và xử lý toàn bộ quá trình cho bạn. Bạn có thể sử dụng dịch vụ này để chơi xổ số từ nhiều quốc gia khác nhau.</string>
+    <string name="next_page" />
+
+
+</resources>
